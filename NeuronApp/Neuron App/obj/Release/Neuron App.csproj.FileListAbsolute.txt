@@ -1,0 +1,84 @@
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\Neuron App.exe.config
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\Neuron App.exe.manifest
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\Neuron App.application
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\Neuron App.exe
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\Neuron App.pdb
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\AForge.Video.dll
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\Microsoft.Speech.dll
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\zxing.dll
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\zxing.presentation.dll
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\zxing.pdb
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\zxing.xml
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\zxing.presentation.pdb
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\zxing.presentation.xml
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron App.csprojAssemblyReference.cache
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron_App.Form1.resources
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron_App.Form2.resources
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron_App.Form3.resources
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron_App.Form4.resources
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron_App.Form5.resources
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron_App.Form6.resources
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron_App.Properties.Resources.resources
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron App.csproj.GenerateResource.cache
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron App.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron App.exe.manifest
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron App.application
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron App.csproj.CopyComplete
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron App.exe
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron App.pdb
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron_App.Form7.resources
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\x64\opencv_world411.dll
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\x64\yolo_cpp_dll_cpu.dll
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\x64\yolo_cpp_dll_gpu.dll
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\x64\pthreadVC2.dll
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\x64\pthreadGC2.dll
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\x64\msvcr100.dll
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\AForge.dll
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\AForge.xml
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\AForge.Video.xml
+C:\Users\Артем\Desktop\NeuronApp\Neuron App\Neuron App\bin\Release\AForge.Video.DirectShow.xml
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\bin\Release\Neuron App.exe.config
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\bin\Release\Neuron App.exe.manifest
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\bin\Release\Neuron App.application
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\bin\Release\Neuron App.exe
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\bin\Release\Neuron App.pdb
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\bin\Release\AForge.dll
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\bin\Release\AForge.Video.DirectShow.dll
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\bin\Release\AForge.Video.dll
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\bin\Release\MessagingToolkit.QRCode.dll
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\bin\Release\Microsoft.Speech.dll
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\bin\Release\QRCoder.dll
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\bin\Release\zxing.dll
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\bin\Release\zxing.presentation.dll
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\bin\Release\AForge.xml
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\bin\Release\AForge.Video.xml
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\bin\Release\AForge.Video.DirectShow.xml
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\bin\Release\zxing.xml
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\bin\Release\zxing.presentation.xml
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron App.csprojAssemblyReference.cache
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron_App.Form1.resources
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron_App.Form2.resources
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron_App.Form3.resources
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron_App.Form4.resources
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron_App.Form5.resources
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron_App.Form6.resources
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron_App.Form7.resources
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron_App.GenerateQR.resources
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron_App.MenuQRcode.resources
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron_App.Properties.Resources.resources
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron_App.SkanQRimage.resources
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron App.csproj.GenerateResource.cache
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron App.csproj.CoreCompileInputs.cache
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron App.exe.manifest
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron App.application
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron App.csproj.CopyComplete
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron App.exe
+E:\Папки рабочего стола\Артем\1 Реальная школа\Курсовые работы 2020-21\NeuronApp\Neuron App\Neuron App\obj\Release\Neuron App.pdb

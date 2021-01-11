@@ -1,0 +1,41 @@
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\obj\x64\Debug\Neuron App.csprojAssemblyReference.cache
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\obj\x64\Debug\Neuron_App.Form1.resources
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\obj\x64\Debug\Neuron_App.Form2.resources
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\obj\x64\Debug\Neuron_App.Form3.resources
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\obj\x64\Debug\Neuron_App.Form4.resources
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\obj\x64\Debug\Neuron_App.Properties.Resources.resources
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\obj\x64\Debug\Neuron App.csproj.GenerateResource.cache
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\obj\x64\Debug\Neuron App.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\x64\opencv_world411.dll
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\x64\yolo_cpp_dll_cpu.dll
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\x64\yolo_cpp_dll_gpu.dll
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\x64\pthreadVC2.dll
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\x64\pthreadGC2.dll
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\x64\msvcr100.dll
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\coco.names
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\yolov3.cfg
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\yolov3.weights
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\Neuron App.exe.config
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\Neuron App.exe
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\Neuron App.pdb
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\AForge.Video.DirectShow.dll
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\AForge.Video.dll
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\Alturos.Yolo.dll
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\Microsoft.Speech.dll
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\Xamarin.Forms.Core.dll
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\zxing.dll
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\zxing.presentation.dll
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\Alturos.Yolo.xml
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\Xamarin.Forms.Core.xml
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\zxing.pdb
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\zxing.xml
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\zxing.presentation.pdb
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\bin\x64\Debug\zxing.presentation.xml
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\obj\x64\Debug\Neuron App.csproj.CopyComplete
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\obj\x64\Debug\Neuron App.exe
+C:\Users\Артем\Desktop\Neuron App\Neuron App\Neuron App\obj\x64\Debug\Neuron App.pdb
